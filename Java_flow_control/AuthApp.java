@@ -24,6 +24,7 @@ public class AuthApp {
 //	    	}
 //	    }else {
 //	    	System.out.println("Who are you?");
+//
 //	    }
 	    
 	    if(inputId.equals(id) && inputPass.equals(pass) ) {

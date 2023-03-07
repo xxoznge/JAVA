@@ -55,6 +55,7 @@ public class AccountApp_Class {
 	        Accounting.expenseRate = 0.3;
 	        Accounting.print();
 	        // anotherVariable = ...;
+	        // another
 	        // anotherMethod = ...;
 		}
 
