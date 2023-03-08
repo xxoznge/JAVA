@@ -1,7 +1,7 @@
 
 public class AccountApp_Method2 {
 
-	public static double valueOfSupply;
+	public static double valueOfSupply; // 이렇게 하면 getVAT () 처럼 ()안에 안넣어도 됨.
 	public static double vatRate;
 	public static double expenseRate;
 
